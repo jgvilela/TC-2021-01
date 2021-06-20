@@ -13,7 +13,14 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/01
 
-Alunos deste semestre aqui!
+## João Gabriel Vilela de Carvalho
+
+- [Take Me To Church - 	Scott Bradlee's Postmodern Jukebox, Morgan James](https://www.youtube.com/watch?v=9C0xGB73Uuc)
+- [Kimbra - Good Intent](https://www.youtube.com/watch?v=ewMTRN9So88)
+- [Journey - Separate Ways](https://www.youtube.com/watch?v=LatorN4P9aA)
+- [Roupa Nova - A Viagem](https://www.youtube.com/watch?v=t-zb_hdU24o)
+- [Yusuf / Cat Stevens - Father & Son](https://www.youtube.com/watch?v=P6zaCV4niKk)
+- [mico](https://www.youtube.com/watch?v=2XY3AvVgDns)
 
 # 2020/02
 
