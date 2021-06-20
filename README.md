@@ -3,7 +3,7 @@
 - [Prof. André T. Endo](https://github.com/andreendo)
 
 ## Alunos - 2021-01
-- [Nome Novo Aluno](https://github.com/link_novo_aluno_github)
+- [João Gabriel Vilela de Carvalho](https://github.com/jgvilela)
 
 ## Semestre Passados
 
